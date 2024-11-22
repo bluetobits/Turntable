@@ -6,6 +6,10 @@
 
  this is, and will always remain, a work in progress. This is a working version,
 
+### 3D printing parts for a ‘009’ or ‘N’ gauge turntable are available at 
+
+### https://www.thingiverse.com/thing:4190945 
+
 ### Features:
 
 *   10 preset positions on 5 buttons (long/short press).  
